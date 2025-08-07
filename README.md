@@ -1,4 +1,5 @@
 # time-series-forecasting-xgboost
+Link to paper: https://dl.acm.org/doi/10.1145/3698300.3698310
 Time series forecasting for networking datasets using the binary model XGBoost. In this, we first make a main model for the dataset. After this, we conduct beta testing on the model by the means of a concept called Chaos Engineering. This basically states that, to understand how the model would work incase of tough situations, we inject chaos intentionallly and test the models' ability to bounce back and work normally after the outage. This is completely coded in Python. The results for the same are shown below respectively. 
 
 1) Main Model 
